@@ -1,0 +1,17 @@
+C:\Users\pogol\source\repos\VidzyCodeFirst\bin\Debug\VidzyCodeFirst.exe.config
+C:\Users\pogol\source\repos\VidzyCodeFirst\bin\Debug\VidzyCodeFirst.exe
+C:\Users\pogol\source\repos\VidzyCodeFirst\bin\Debug\VidzyCodeFirst.pdb
+C:\Users\pogol\source\repos\VidzyCodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\pogol\source\repos\VidzyCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pogol\source\repos\VidzyCodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\pogol\source\repos\VidzyCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pogol\source\repos\VidzyCodeFirst\obj\Debug\VidzyCodeFirst.csprojAssemblyReference.cache
+C:\Users\pogol\source\repos\VidzyCodeFirst\obj\Debug\VidzyCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\pogol\source\repos\VidzyCodeFirst\obj\Debug\VidzyCodeFirst.csproj.CopyComplete
+C:\Users\pogol\source\repos\VidzyCodeFirst\obj\Debug\VidzyCodeFirst.exe
+C:\Users\pogol\source\repos\VidzyCodeFirst\obj\Debug\VidzyCodeFirst.pdb
+C:\Users\pogol\source\repos\VidzyCodeFirst\obj\Debug\VidzyCodeFirst.Migrations.InitialModel.resources
+C:\Users\pogol\source\repos\VidzyCodeFirst\obj\Debug\VidzyCodeFirst.csproj.GenerateResource.cache
+C:\Users\pogol\source\repos\VidzyCodeFirst\obj\Debug\VidzyCodeFirst.Migrations.PopulateGenres.resources
+C:\Users\pogol\source\repos\VidzyCodeFirst\obj\Debug\VidzyCodeFirst.Migrations.ConvertManyToManyToOneToManyRelationVideoGenre.resources
+C:\Users\pogol\source\repos\VidzyCodeFirst\obj\Debug\VidzyCodeFirst.Migrations.AddClasificationToVideosTable.resources

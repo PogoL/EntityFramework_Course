@@ -1,0 +1,15 @@
+C:\Users\pogol\Documents\git_nauka\DataAnnotation\DataAnnotations\bin\Debug\DataAnnotations.exe.config
+C:\Users\pogol\Documents\git_nauka\DataAnnotation\DataAnnotations\bin\Debug\DataAnnotations.exe
+C:\Users\pogol\Documents\git_nauka\DataAnnotation\DataAnnotations\bin\Debug\DataAnnotations.pdb
+C:\Users\pogol\Documents\git_nauka\DataAnnotation\DataAnnotations\bin\Debug\EntityFramework.dll
+C:\Users\pogol\Documents\git_nauka\DataAnnotation\DataAnnotations\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pogol\Documents\git_nauka\DataAnnotation\DataAnnotations\bin\Debug\EntityFramework.xml
+C:\Users\pogol\Documents\git_nauka\DataAnnotation\DataAnnotations\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pogol\Documents\git_nauka\DataAnnotation\DataAnnotations\obj\Debug\DataAnnotations.csprojAssemblyReference.cache
+C:\Users\pogol\Documents\git_nauka\DataAnnotation\DataAnnotations\obj\Debug\DataAnnotations.csproj.CoreCompileInputs.cache
+C:\Users\pogol\Documents\git_nauka\DataAnnotation\DataAnnotations\obj\Debug\DataAnnotations.csproj.CopyComplete
+C:\Users\pogol\Documents\git_nauka\DataAnnotation\DataAnnotations\obj\Debug\DataAnnotations.exe
+C:\Users\pogol\Documents\git_nauka\DataAnnotation\DataAnnotations\obj\Debug\DataAnnotations.pdb
+C:\Users\pogol\Documents\git_nauka\DataAnnotation\DataAnnotations\obj\Debug\DataAnnotations.Migrations.InitialModel.resources
+C:\Users\pogol\Documents\git_nauka\DataAnnotation\DataAnnotations\obj\Debug\DataAnnotations.csproj.GenerateResource.cache
+C:\Users\pogol\Documents\git_nauka\DataAnnotation\DataAnnotations\obj\Debug\DataAnnotations.Migrations.AddAnnotationsToCoursesTable.resources

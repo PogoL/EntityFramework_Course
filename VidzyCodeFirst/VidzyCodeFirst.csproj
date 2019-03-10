@@ -66,6 +66,14 @@
     <Compile Include="Migrations\201903061540058_AddClasificationToVideosTable.Designer.cs">
       <DependentUpon>201903061540058_AddClasificationToVideosTable.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201903100756083_4thIteration.cs" />
+    <Compile Include="Migrations\201903100756083_4thIteration.Designer.cs">
+      <DependentUpon>201903100756083_4thIteration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201903100801001_AddTagsTable.cs" />
+    <Compile Include="Migrations\201903100801001_AddTagsTable.Designer.cs">
+      <DependentUpon>201903100801001_AddTagsTable.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -86,6 +94,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201903061540058_AddClasificationToVideosTable.resx">
       <DependentUpon>201903061540058_AddClasificationToVideosTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201903100756083_4thIteration.resx">
+      <DependentUpon>201903100756083_4thIteration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201903100801001_AddTagsTable.resx">
+      <DependentUpon>201903100801001_AddTagsTable.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
